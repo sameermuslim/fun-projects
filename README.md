@@ -6,22 +6,30 @@ Welcome to the For-Fun repository! This repository is a collection of small proj
 
 ## Projects
 
-1. **Project Name 1**
+1.  **Snake Game**
 
-   - Description: Brief description of the first project.
-   - [Link to Project 1](snake-game/index.html)
+    - It is a simple Snake game that remind you the old snake game.
 
-2. **Project Name 2**
+    - [Live Demo](snake-game/index.html)
 
-   - Description: Brief description of the second project.
-   - [Link to Project 2](Snow-wallpaper/index.html)
+2.  **Sonwfall Wallpaper**
 
-3. **Project Name 3**
+    - It is a Snowfall wallpaper build using canvas tag.
 
-   - Description: Brief description of the third project.
-   - [Link to Project 3](Simon Game/index.html)
+    - [Live Demo](snow-wallpaper/index.html)
 
-   <!-- Add more projects as needed -->
+3.  **Simon Game**
+
+    - Simon game tests memory with sequences of colored buttons and tones.
+    - [Live Demo](simon-game/index.html)
+
+4.  **Yalda Night**
+
+    - It is a fun project for Yalda Night
+
+    - [Live Demo](yalda-night/index.html)
+
+    <!-- Add more projects as needed -->
 
 ## How to Contribute
 
