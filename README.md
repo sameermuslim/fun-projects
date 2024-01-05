@@ -1,6 +1,6 @@
-# For-Fun Repository
+# Fun Projects Repository
 
-Welcome to the For-Fun repository! This repository is a collection of small projects created for fun. Each project is unique and showcases interesting ideas or experiments. Feel free to explore, provide feedback, and even collaborate on new ideas!
+Welcome to the Fun repository! This repository is a collection of small projects created for fun. Each project is unique and showcases interesting ideas or experiments. Feel free to explore, provide feedback, and even collaborate on new ideas!
 
 - **Live Demo:** [View Live Demo](https://sameermuslim.github.io/fan-projects/)
 
