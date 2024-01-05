@@ -2,22 +2,24 @@
 
 Welcome to the For-Fun repository! This repository is a collection of small projects created for fun. Each project is unique and showcases interesting ideas or experiments. Feel free to explore, provide feedback, and even collaborate on new ideas!
 
+- **Live Demo:** [View Live Demo](https://sameermuslim.github.io/fan-projects/)
+
 ## Projects
 
 1. **Project Name 1**
 
    - Description: Brief description of the first project.
-   - [Link to Project 1](project1/README.md)
+   - [Link to Project 1](snake-game/index.html)
 
 2. **Project Name 2**
 
    - Description: Brief description of the second project.
-   - [Link to Project 2](project2/README.md)
+   - [Link to Project 2](Snow-wallpaper/index.html)
 
 3. **Project Name 3**
 
    - Description: Brief description of the third project.
-   - [Link to Project 3](project3/README.md)
+   - [Link to Project 3](Simon Game/index.html)
 
    <!-- Add more projects as needed -->
 
